@@ -1,16 +1,11 @@
 /**********************************************************************************
  * Name: Chelsea Marie Hicks
- * ONID 931286984
- * Course: CS 475
- * Assignment: Project 1
- * Due Date: April 16, 2021 by 11:59 PM
  * 
  * Description: Monte Carlo simulation to determine probability of a cannon
  * hitting the castle and destroying it.
  *
- * Resources include: CS475 documentation -- program essentially provided
+ * Resources include: 
  * Compiled on macOS using g++-10 -o monte monte.cpp -O3 -lm -fopenmp
- * Compiled on flip using g++ -o monte monte.cpp -O3 -lm -fopenmp
 ***********************************************************************************/
 
 #include <stdio.h>
